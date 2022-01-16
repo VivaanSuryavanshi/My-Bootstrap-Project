@@ -1,0 +1,35 @@
+body{
+    text-align:center;
+
+}
+#app{
+    background-color:brown;
+    width:100%;
+    padding:20px;
+}
+.apps{
+    color:lime;
+    text-decoration:underline;
+}
+.btn-success{
+    font-size:50px;
+    width:100%;
+
+}
+#myCarousel{
+    background-color:burlywood;
+    padding:25px;
+}
+img{
+    width:400px;
+    height:300px;
+}
+p{
+    font-size:20px;
+    font-weight:bold;
+    margin-top:10px
+}
+#myChatbots{
+    background-color:chocolate;
+    padding:25px;
+}
